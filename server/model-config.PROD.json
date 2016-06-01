@@ -14,7 +14,7 @@
     ]
   },
   "pushMessage": {
-    "dataSource": "mongo_prod",
+    "dataSource": "mongodb_prod",
     "public": true
   }
 }
